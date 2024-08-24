@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working as Senior Storage & Backup Enhineer at TATA Consultancy Services
+- 🔭 I’m currently working as Senior Storage & Backup Engineer at TATA Consultancy Services
 - 🌱 I’m currently learning AWS and Azure
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
